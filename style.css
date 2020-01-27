@@ -1,0 +1,132 @@
+.button {
+    float: right;
+    padding-inline-start: 2%;
+}
+
+.header {
+    background-color: black;
+    padding: 1%;
+    color: white;
+    
+}
+
+img {
+    width: 100%;
+    position: relative;
+    opacity: 90%;
+    z-index: 1;
+    
+}
+
+.text {
+    position: absolute;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    padding: 10%;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px black; 
+    top: 20%;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+}
+
+.conteneur {
+    overflow:hidden;
+    padding: 100px;
+}
+
+.colp {
+    width:50%; 
+    float:left; 
+    display:inline;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.image1 {
+    background-image: url(image\Cafe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: ;
+   
+}
+
+.ouais {
+    text-align: center;
+}
+
+.imagecolp {
+    width: 10%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+
+.lieu {
+    width: 40%;
+    padding: 10%;
+    position: relative;
+}
+
+.ensemble {
+    position: relative;
+    display: inline-block;
+    bottom: 300px;
+}
+
+body {
+    margin: auto;
+}
+
+.dodo {
+    text-align: center;
+    padding: 3%;
+}
+
+.formulaire {
+    text-align: center;
+    padding: 5%;
+    ;
+}
+.quest {
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: ;
+}
+.non {
+    margin-left: 40%;
+    margin-top: ;
+}
+.bouuton {
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
+input {
+    margin-top: 2%;
+    font-size: xx-large;
+}
+.divi {
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
